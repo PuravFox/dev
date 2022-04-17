@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/avtune/static/js/main.0a098e8b.js",
+    "static/js/787.2b7c87ed.chunk.js": "/avtune/static/js/787.2b7c87ed.chunk.js",
+    "index.html": "/avtune/index.html",
+    "main.0a098e8b.js.map": "/avtune/static/js/main.0a098e8b.js.map",
+    "787.2b7c87ed.chunk.js.map": "/avtune/static/js/787.2b7c87ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0a098e8b.js"
+  ]
+}
